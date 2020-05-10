@@ -1,0 +1,14 @@
+{
+  "project_name": "Beauty Pass - Web Admin",
+  "project_description": "Projeto web a respeito da adminsitração do Beauty Pass",
+  "show_files": [
+    "src/main/java/myapp/DemoServlet.java",
+    "build.xml",
+    "pom.xml",
+    "src/main/webapp/index.html",
+    "src/main/webapp/WEB-INF/appengine-web.xml",
+    "src/main/webapp/WEB-INF/logging.properties",
+    "src/main/webapp/WEB-INF/web.xml"
+  ],
+  "download_filename": "br.com.beauty.pass.webadmin.zip"
+}
